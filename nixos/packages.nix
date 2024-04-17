@@ -53,6 +53,7 @@
     openssl
     lazygit
     bluez
+    bluez-tools
 
     # GUI utils
     feh
