@@ -51,6 +51,7 @@
     brightnessctl
     swww
     openssl
+    lazygit
 
     # GUI utils
     feh
