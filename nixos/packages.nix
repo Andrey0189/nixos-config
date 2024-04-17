@@ -52,6 +52,7 @@
     swww
     openssl
     lazygit
+    bluez
 
     # GUI utils
     feh
