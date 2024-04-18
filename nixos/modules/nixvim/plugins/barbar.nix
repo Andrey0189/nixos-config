@@ -6,7 +6,7 @@
 
       next = "<TAB>";
       previous = "<S-TAB>";
-      close = "<C-q>";
+      # close = "<C-q>";
     };
   };
 }
