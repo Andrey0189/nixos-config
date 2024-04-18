@@ -184,6 +184,10 @@
         ", XF86AudioLowerVolume, exec, pamixer -d 5 "
         ", XF86AudioMute, exec, pamixer -t"
         ", XF86AudioMicMute, exec, pamixer --default-source -m"
+        
+        # Brightness control
+        ", XF86MonBrightnessDown, exec, brightnessctl set 5%- "
+        ", XF86MonBrightnessUp, exec, brightnessctl set +5% "
 
         # Configuration files
         ''$mainMod SHIFT, N, exec, alacritty -e sh -c "rb"''
