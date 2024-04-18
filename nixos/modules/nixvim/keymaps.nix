@@ -38,10 +38,6 @@
           "<leader>k" = "<C-w>k";
           "<leader>l" = "<C-w>l";
 
-          # Press 'H', 'L' to jump to start/end of a line (first/last character)
-          # L = "$";
-          # H = "^";
-
           # resize with arrows
           "<C-Up>" = ":resize -2<CR>";
           "<C-Down>" = ":resize +2<CR>";
