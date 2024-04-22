@@ -6,7 +6,7 @@
 
   environment.systemPackages = with pkgs; [
     # Desktop apps
-    chromium
+    firefox
     telegram-desktop
     alacritty
     obs-studio
@@ -54,6 +54,11 @@
     lazygit
     bluez
     bluez-tools
+    httpie
+    ncdu
+    hexyl
+    jq
+    tldr
 
     # GUI utils
     feh
