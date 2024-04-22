@@ -87,7 +87,7 @@
     pamixer
 
     # GPU stuff 
-    amdvlk
+    #amdvlk
     rocm-opencl-icd
     glaxnimate
 
