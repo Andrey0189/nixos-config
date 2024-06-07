@@ -1,4 +1,4 @@
-{
+{ inputs, ...}: {
   imports = [
     ./hardware-configuration.nix
     ./packages.nix
@@ -8,6 +8,8 @@
   disabledModules = [
     ./modules/xserver.nix
   ];
+
+  nixpkgs.overlays = [ inputs.polymc.overlay ];
 
   networking.hostName = "nixos"; # Define your hostname.
 
