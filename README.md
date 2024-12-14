@@ -1,3 +1,5 @@
+[New config](https://github.com/Andrey0189/nixos-config-reborn)
+
 # ❄️ My NixOS Config
 
 ```bash
