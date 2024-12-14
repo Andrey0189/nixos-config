@@ -1,4 +1,4 @@
-[New config](https://github.com/Andrey0189/nixos-config-reborn)
+👾 New config [here](https://github.com/Andrey0189/nixos-config-reborn)
 
 # ❄️ My NixOS Config
 
