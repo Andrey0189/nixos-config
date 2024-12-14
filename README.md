@@ -1,6 +1,6 @@
 👾 New config [here](https://github.com/Andrey0189/nixos-config-reborn)
 
-# ❄️ My NixOS Config
+# ❄️ My Old NixOS Config
 
 ```bash
 git clone https://github.com/Andrey0189/nixos-config
